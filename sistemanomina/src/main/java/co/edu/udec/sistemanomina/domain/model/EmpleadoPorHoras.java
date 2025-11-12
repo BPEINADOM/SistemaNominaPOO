@@ -37,7 +37,7 @@ public class EmpleadoPorHoras extends Empleado {
     }
 
     public void setAceptaFondoAhorro(boolean aceptaFondoAhorro) {
-        this.aceptaFondoAhorro = aceptaFonoAhorro;
+        this.aceptaFondoAhorro = aceptaFondoAhorro;
     }
 
     /**
